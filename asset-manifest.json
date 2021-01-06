@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/planlist/static/css/main.1db6f3d9.chunk.css",
+    "main.js": "/planlist/static/js/main.8b2dde2b.chunk.js",
+    "main.js.map": "/planlist/static/js/main.8b2dde2b.chunk.js.map",
+    "runtime-main.js": "/planlist/static/js/runtime-main.c34cb032.js",
+    "runtime-main.js.map": "/planlist/static/js/runtime-main.c34cb032.js.map",
+    "static/css/2.31461e4f.chunk.css": "/planlist/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f8da96a6.chunk.js": "/planlist/static/js/2.f8da96a6.chunk.js",
+    "static/js/2.f8da96a6.chunk.js.map": "/planlist/static/js/2.f8da96a6.chunk.js.map",
+    "static/js/3.8ad3be57.chunk.js": "/planlist/static/js/3.8ad3be57.chunk.js",
+    "static/js/3.8ad3be57.chunk.js.map": "/planlist/static/js/3.8ad3be57.chunk.js.map",
+    "index.html": "/planlist/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/planlist/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.1db6f3d9.chunk.css.map": "/planlist/static/css/main.1db6f3d9.chunk.css.map",
+    "static/js/2.f8da96a6.chunk.js.LICENSE.txt": "/planlist/static/js/2.f8da96a6.chunk.js.LICENSE.txt",
+    "static/media/brain.e2074f99.png": "/planlist/static/media/brain.e2074f99.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34cb032.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f8da96a6.chunk.js",
+    "static/css/main.1db6f3d9.chunk.css",
+    "static/js/main.8b2dde2b.chunk.js"
+  ]
+}
