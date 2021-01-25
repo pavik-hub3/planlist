@@ -1,5 +1,5 @@
 # Plan-do-list-app
-Front-End: Plan Do List App Project
+Front-End: Plan Do List App Project (using React, HTML, JavaScript, CSS)
 
 See the back-end of the project soon.
 
